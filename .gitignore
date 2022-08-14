@@ -5,6 +5,11 @@
 *.so
 *.dylib
 
+docker_run.sh
+db_connect.sh
+migrate_down.sh
+migrate_up.sh
+
 # Test binary, built with `go test -c`
 *.test
 
